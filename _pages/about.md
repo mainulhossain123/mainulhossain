@@ -27,9 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, my name is Mainul Hossain, a versatile and solutions-driven Site Reliability Engineer with a strong background in cloud infrastructure, automation, and systems administration.
+Hi, my name is Mainul Hossain, a versatile and solutions-driven Site Reliability Engineer with a strong background in cloud infrastructure, 
+automation, and systems administration.
 
-Currently, I work as a Site Reliability Engineer at [Optimizely](https://www.optimizely.com/) as part of the **Reliability/Platform Engineering** team, where I contribute to maintaining the reliability, scalability, and performance of Optimizely's cloud-native SaaS infrastructure. Prior to this role, I served as a Managed Services Engineer in the **Strategic Support Solutions** team, focusing on service optimization for customer Azure infrastructures and developing automation solutions.
+Currently, I work as a Site Reliability Engineer at [Optimizely](https://www.optimizely.com/) as part of the **Reliability/Platform 
+Engineering** team, where I contribute to maintaining the reliability, scalability, and performance of Optimizely's cloud-native SaaS infrastructure. 
+Prior to this role, I served as a Managed Services Engineer in the **Strategic Support Solutions** team, focusing on service optimization for 
+customer Azure infrastructures and developing automation solutions.
 
 I have completed my B.Sc in Computer Science from [BRAC University](https://www.bracu.ac.bd/) and possess extensive expertise in managing and optimizing **Microsoft Azure** and **AWS** environments, with hands-on experience in **Docker**, **Kubernetes**, and infrastructure as code practices. I'm skilled in scripting with **Python**, **Bash**, and **Ruby** for automation, monitoring, and API integrations.
 
