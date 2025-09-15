@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mainulhossain123.github.io/mainulhossain/sitemap.xml
+Sitemap: https://mainulhossain123.github.io/sitemap.xml
