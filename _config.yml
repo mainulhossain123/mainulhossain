@@ -3,23 +3,26 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Mainul
+middle_name: 
+last_name: Hossain
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Currently working as a Site Reliability Engineer at Optimizely Inc. Feel free to reach out for collaboration 
+  on cloud infrastructure, automation projects, or research in machine learning and explainable AI.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Site Reliability Engineer with expertise in cloud infrastructure, automation, and systems administration. 
+  Proficient in Microsoft Azure and AWS environments, with hands-on experience in Docker, Kubernetes, and 
+  infrastructure as code. Skilled in Python, Bash, and Ruby for automation and API integrations. Research 
+  interests include machine learning, deep learning, and explainable AI (XAI).
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: site-reliability-engineering, cloud-infrastructure, azure, aws, docker, kubernetes, python, automation, machine-learning, explainable-ai # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://alshedivat.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://mainulhossain123.github.io # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -48,7 +51,7 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -86,8 +89,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Mainul Hossain # blog_name will be displayed in your blog page
+blog_description: Insights on SRE practices, cloud infrastructure, automation, and machine learning research
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -264,8 +267,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Hossain]
+  first_name: [Mainul, M.]
 
   style: apa
   locale: en
