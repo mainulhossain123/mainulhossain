@@ -118,7 +118,7 @@ You can find some of my automation and infrastructure projects on my [GitHub](ht
 **Dhaka, Bangladesh**  
 *May 2015 - Jan 2022*
 
-- **GPA:** 3.14/4.0
+- **GPA:** 3.45/4.0
 - **Research Work:** Focus on machine learning, deep learning, and explainable AI (XAI)
 - **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Software Engineering, Computer Networks
 - **Publications:**
