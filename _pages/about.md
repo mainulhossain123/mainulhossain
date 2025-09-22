@@ -113,11 +113,9 @@ You can find my automation and infrastructure projects on [GitHub](https://githu
 ### B.Sc. in Computer Science
 #### [BRAC University](https://www.bracu.ac.bd/)
 **Dhaka, Bangladesh**  
-*May 2015 - Jan 2022*
 
-- **GPA:** 3.45/4.0
 - **Research Work:** Focus on machine learning, deep learning, and AI
-- **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Software Engineering, Computer Networks
+- **Relevant Coursework:** Data Structures, Artificial Intelligence, Algorithms, Database Systems, Software Engineering, Computer Networks
 - **Publications:**
   - A Biofeedback controlled personalized Virtual Reality (VR) based Exercise game - KUI 2021: 19th ACM Conference Culture and Computer Science
   - Early Stage Detection and Classification of Colon Cancer using Deep Learning and AI on Histopathological Images (Awaiting Publication)
