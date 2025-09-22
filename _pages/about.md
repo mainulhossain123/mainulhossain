@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m Mainul — a Site Reliability Engineer focused on building dependable, scalable systems and simplifying complex cloud operations.
+Hello!, I’m Mainul, a Site Reliability Engineer focused on building dependable, scalable systems and simplifying complex cloud operations.
 
-Currently, I work at [Optimizely](https://www.optimizely.com/) on the **Reliability/Platform Engineering** team, helping keep our cloud-native SaaS fast, scalable, and resilient. Previously, I worked in **Strategic Support Solutions**, optimizing customer Azure environments and developing automation to reduce operational toil.
+Currently, I work at [Optimizely](https://www.optimizely.com/) on the **Reliability/Platform Engineering** team, helping to implement and maintain cloud-native SaaS solutions for fast, scalable, and resilient infrastructure. Previously, I worked in the **Strategic Support Solutions** team within Technical Support Services, optimizing customer Azure environments and developing automation to reduce operational toil.
 
 I studied Computer Science at [BRAC University](https://www.bracu.ac.bd/). I work across **Microsoft Azure** and **AWS**, containerize with **Docker** and **Kubernetes**, and manage infrastructure as code. I primarily script in **Python**, with **Bash** and **Ruby** as needed.
 
@@ -40,7 +40,7 @@ Here are a few areas I focus on:
 - **API Development**: Building Python-based automation processes and cost-saving initiatives
 - **System Administration**: Windows Server, SQL Server, IIS, and Linux-based systems
 
-Outside of work, I explore **machine learning**, **deep learning**, and **AI**, with hands-on projects in cybersecurity and reliability. I value cross-team collaboration, adaptability, and operational excellence across cloud and hybrid environments.
+Outside of work, I explore **machine learning**, **deep learning**, and **AI** solutions, with hands-on projects in cybersecurity and reliability infrastructure automation. I value cross-team collaboration, adaptability, and operational excellence across cloud and hybrid environments.
 
 You can find my automation and infrastructure projects on [GitHub](https://github.com/mainulhossain123), including tools for Pingdom monitoring, Cloudflare API integrations, and .NET Core diagnostics.
 
@@ -54,6 +54,7 @@ You can find my automation and infrastructure projects on [GitHub](https://githu
 *Jun 2025 - Present (3 mos +)*
 
 - Contributed to maintaining the reliability, scalability, and performance of Optimizely's cloud-native SaaS infrastructure
+- Implemented Azure automation for .NET Core proactive monitoring and diagnostics, enhancing system observability and reducing incident response time.
 - Implemented well scoped improvements and automation tasks within internal systems, including CI/CD enhancements and containerized workflow optimization
 - Actively participated in incident response processes and change management, following SRE principles to ensure platform stability
 - Developed and maintained internal documentation and monitoring workflows aligned with departmental standards
