@@ -27,26 +27,22 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, my name is Mainul Hossain, a versatile and solutions-driven Site Reliability Engineer with a strong background in cloud infrastructure, 
-automation, and systems administration.
+Hi, I’m Mainul — a Site Reliability Engineer focused on building dependable, scalable systems and simplifying complex cloud operations.
 
-Currently, I work as a Site Reliability Engineer at [Optimizely](https://www.optimizely.com/) as part of the **Reliability/Platform 
-Engineering** team, where I contribute to maintaining the reliability, scalability, and performance of Optimizely's cloud-native SaaS infrastructure. 
-Prior to this role, I served as a Managed Services Engineer in the **Strategic Support Solutions** team, focusing on service optimization for 
-customer Azure infrastructures and developing automation solutions.
+Currently, I work at [Optimizely](https://www.optimizely.com/) on the **Reliability/Platform Engineering** team, helping keep our cloud-native SaaS fast, scalable, and resilient. Previously, I worked in **Strategic Support Solutions**, optimizing customer Azure environments and developing automation to reduce operational toil.
 
-I have completed my B.Sc in Computer Science from [BRAC University](https://www.bracu.ac.bd/) and possess extensive expertise in managing and optimizing **Microsoft Azure** and **AWS** environments, with hands-on experience in **Docker**, **Kubernetes**, and infrastructure as code practices. I'm skilled in scripting with **Python**, **Bash**, and **Ruby** for automation, monitoring, and API integrations.
+I studied Computer Science at [BRAC University](https://www.bracu.ac.bd/). I work across **Microsoft Azure** and **AWS**, containerize with **Docker** and **Kubernetes**, and manage infrastructure as code. I primarily script in **Python**, with **Bash** and **Ruby** as needed.
 
-My professional experience includes:
+Here are a few areas I focus on:
 - **Cloud Infrastructure Management**: Extensive work with Microsoft Azure and AWS environments
 - **Automation & DevOps**: Developing CI/CD pipelines, containerized workflows, and automation scripts
 - **Incident Response**: Managing high-pressure support environments and incident management
 - **API Development**: Building Python-based automation processes and cost-saving initiatives
 - **System Administration**: Windows Server, SQL Server, IIS, and Linux-based systems
 
-Along with industry involvement, I engage in research work. My research interests include **machine learning**, **deep learning**, and **explainable AI (XAI)**, with practical exposure to cybersecurity and system reliability. I'm adept at collaborating across teams, adapting quickly to evolving technologies, and driving operational excellence in both cloud and hybrid infrastructures.
+Outside of work, I explore **machine learning**, **deep learning**, and **AI**, with hands-on projects in cybersecurity and reliability. I value cross-team collaboration, adaptability, and operational excellence across cloud and hybrid environments.
 
-You can find some of my automation and infrastructure projects on my [GitHub](https://github.com/mainulhossain123), including tools for Pingdom monitoring, Cloudflare API integration, and .NET Core system diagnostics.
+You can find my automation and infrastructure projects on [GitHub](https://github.com/mainulhossain123), including tools for Pingdom monitoring, Cloudflare API integrations, and .NET Core diagnostics.
 
 ---
 
@@ -119,11 +115,11 @@ You can find some of my automation and infrastructure projects on my [GitHub](ht
 *May 2015 - Jan 2022*
 
 - **GPA:** 3.45/4.0
-- **Research Work:** Focus on machine learning, deep learning, and explainable AI (XAI)
+- **Research Work:** Focus on machine learning, deep learning, and AI
 - **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Software Engineering, Computer Networks
 - **Publications:**
   - A Biofeedback controlled personalized Virtual Reality (VR) based Exercise game - KUI 2021: 19th ACM Conference Culture and Computer Science
-  - Early Stage Detection and Classification of Colon Cancer using Deep Learning and Explainable AI on Histopathological Images (Awaiting Publication)
+  - Early Stage Detection and Classification of Colon Cancer using Deep Learning and AI on Histopathological Images (Awaiting Publication)
 
 ---
 
@@ -217,5 +213,5 @@ You can find some of my automation and infrastructure projects on my [GitHub](ht
 *KUI 2021: 19th ACM Conference Culture and Computer Science – Physical und Virtual Spaces*
 
 ### Upcoming
-**Early Stage Detection and Classification of Colon Cancer using Deep Learning and Explainable AI on Histopathological Images**  
+**Early Stage Detection and Classification of Colon Cancer using Deep Learning and AI on Histopathological Images**  
 *Awaiting Publication*
